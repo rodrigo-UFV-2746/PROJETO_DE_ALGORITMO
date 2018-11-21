@@ -1,7 +1,11 @@
 //MATERIA: PROJETO DE ALGORITMO
-//UNIVERSIDADE FEDERAL DE VI«OSA CAMPUS DE RIO PARANAÕBA 
-//ALUNOS : Rodrigo de Oliveira Costa , Kleiber de Carvalho Ferreira,luiz Henrique FranÁa
-//PROJETO2
+//UNIVERSIDADE FEDERAL DE VI√áOSA CAMPUS DE RIO PARANA√çBA 
+//ALUNOS : Rodrigo de Oliveira Costa , Kleiber de Carvalho Ferreira,luiz Henrique Fran√ßa
+//PROJETO2 (cria√ß√£o de grupos usando algoritmo de Prim Kruskal
+/* link github
+https://github.com/rodrigo-UFV-2746/PROJETO_DE_ALGORITMO/blob/master/algoritmos.h
+https://github.com/rodrigo-UFV-2746/PROJETO_DE_ALGORITMO/blob/master/projetorodando.c
+*/
 #include <dir.h>
 #include <time.h>
 #include <string.h>
